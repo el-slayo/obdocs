@@ -10,9 +10,9 @@ There are a multitude of bank filters you can use to easily identify or search i
 
 There are 2 ways to search your bank for items.
 
-* `+b [full item name]`
+* `/bank item:[Full Item Name]`
   * This command only returns results when the full item name is entered.
-* `+bs [partial/full item name]`
+* `/bank search:[partial/full item name]`
   * This command will return anything that contains the term searched.
 
 ### Universal Filters
